@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="colors">
+        <item>Красный</item>
+        <item>Синий</item>
+        <item>Зеленый</item>
+        <!-- Добавьте другие цвета по мере необходимости -->
+    </string-array>
+</resources>
